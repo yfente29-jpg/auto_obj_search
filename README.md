@@ -7,3 +7,6 @@ The program uses various bosdyn libraries, numpy, argparse, sys, time, and cv2.
 
 # How to run
 The program requires the complete upload filepath of the downloaded graph map, with the name 'downloaded_graph'. It also requires a target object. The default confidence threshold is 0.65, but should the user desire to change it, it can be done through the command line.
+
+# Acknowledgements
+Sections of code were recycled from the Boston Dynamics SDK.
